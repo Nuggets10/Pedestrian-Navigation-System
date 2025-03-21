@@ -5,7 +5,8 @@ It utilizes a node-based navigation system.
 ![Image](https://github.com/user-attachments/assets/af491d37-e6b2-4f01-ace3-4df6cc675d19)
 
 The package includes a pre-built scene that showcases all its features.
-
+# ⬇️ | Installation
+You can download and install the package either from the "Releases" section on GitHub or from the official Unity Asset Store [here].
 # 🚀 | Set-up
 To properly set up the navigation system, follow these steps or watch the tutorial video here:
 - Create an empty GameObject and attach **PedestrianSystemController.cs** to it.
