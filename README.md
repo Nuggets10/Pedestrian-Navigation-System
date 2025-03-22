@@ -8,7 +8,7 @@ The package includes a pre-built scene that showcases all its features.
 # ⬇️ | Installation
 You can download and install the package either from the "Releases" section on GitHub or from the official Unity Asset Store [here].
 # 🚀 | Set-up
-To properly set up the navigation system, follow these steps or watch the tutorial video here:
+To properly set up the navigation system, follow these steps:
 - Create an empty GameObject and attach **PedestrianSystemController.cs** to it.
 - Configure the attached script as desired. A description of each parameter is provided here on GitHub or by hovering over the variables in the Inspector.
   - The script also needs a pedestrian prefab. You can assign the one provided with the package or create your own. To do that, just create a gameobject and assign **PedestrianSystemMover.cs** to it.
