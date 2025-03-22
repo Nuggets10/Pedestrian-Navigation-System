@@ -26,7 +26,7 @@ The package contains 4 scripts:
 - **PedestrianSystemUI.cs** This script doesn't need to be attached to any object. It provides UI elements that make the inspector values more readable.
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/dd3cbdea-b0ca-4168-85c2-0974c4203718" width="45%" style="vertical-align: top;">
+    <img src="https://github.com/user-attachments/assets/2da1c424-07e4-4d94-8673-ef9cc89d3485" width="45%" style="vertical-align: top;">
     <img src="https://github.com/user-attachments/assets/f7f7e589-d611-4893-8cd5-291ddbd97041" width="45%" style="vertical-align: top;">
 </p>
 
